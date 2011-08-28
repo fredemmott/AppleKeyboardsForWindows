@@ -8,6 +8,14 @@ This remaps shift+key, option+key, and shift+option+key to match what you'd expe
 * Download the .zip package for your keyboard
 * Run setup.exe inside there
 
+It's now installed! To actually use it, select it from the language bar, if you have it; otherwise:
+
+* Open Control Panel
+* Click 'Change keyboards or other input methods', under 'Clock, Language, and Region'
+* Click 'Change keyboards'
+* Change 'Default input language'
+* Click 'OK' a few times.
+
 = What about Right-Option aka Right-Alt aka AltGr?
 
 Sorry, this can't be fixed with just a keyboard layout. Your options (pun intended) are:
