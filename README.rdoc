@@ -1,0 +1,24 @@
+= What is this?
+
+This remaps shift+key, option+key, and shift+option+key to match what you'd expect if you're used to OSX.
+
+= How do I use it?
+
+* Click the 'Download' link at the top
+* Download the .zip package for your keyboard
+* Run setup.exe inside there
+
+= What about Right-Option aka Right-Alt aka AltGr?
+
+Sorry, this can't be fixed with just a keyboard layout. Your options (pun intended) are:
+
+* Use Ctrl-Alt instead
+* Remap the right option key to AltGr via {KeyTweak}[http://webpages.charter.net/krumsick/]
+
+= I don't trust your zip file, or I want to edit it. How do I build it?
+
+Use {The Microsoft Keyboard Layout Creator}[http://msdn.microsoft.com/en-us/goglobal/bb964665].
+
+= An exe, 3 windows installer packages, and 4 dlls?!
+
+Yes, that's what Microsoft's tool builds.
